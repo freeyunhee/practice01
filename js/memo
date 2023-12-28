@@ -1,0 +1,10 @@
+
+
+
+variables : 변수
+let 많이 사용함 
+- var hoisting (어디서 선언했는지, 상관 없이 가장 위로 끌어올려서 선언해주는 것)
+- 변수 설정 전에 값을 할당하고, 호출 가능 
+
+block scope
+global scope > 항상 메모리에 탑재 / 최소한으로 사용 
