@@ -1,0 +1,20 @@
+@charset 'utf-8';
+
+// Breakpoints
+$breakpoint-mobile: 335px;
+$breakpoint-tablet: 758px;
+$breakpoint-desktop: 1024px;
+
+
+$mainColor : #f0543a;
+$subColor01 : #f251ab;
+$subColor02 : #664af1;
+$subColor03 : #ffebe8;
+$subColor04 : #f1f3fb;
+$fontColor01 : #111;
+$fontColor02 : #94949a;
+
+$mainColumnL : calc(60% - 3rem);
+$mainColumnR : 40%;
+
+$borderRadiusM : 2rem;

@@ -1,0 +1,19 @@
+@charset 'utf-8';
+
+.inner {
+    @include inner;
+}
+
+.blind {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    margin: -1px;
+    clip: rect(0 0 0 0);
+}
+
+a {
+    display: block;
+    height: 100%;
+}

@@ -1,0 +1,24 @@
+<svg width="26" height="26" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="dqrxmoj5ca" d="M0 0h18.353v24.47H0z"/>
+        <path id="f7t695ti1c" d="M0 24.47h18.353V0H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h26v26H0z"/>
+        <g transform="translate(3.824 .765)">
+            <mask id="j60j77lksb" fill="#fff">
+                <use xlink:href="#dqrxmoj5ca"/>
+            </mask>
+            <path d="M16.928 24.47H0V0h16.928a1.42 1.42 0 0 1 1.425 1.415v21.64a1.42 1.42 0 0 1-1.425 1.416" fill="#FFD15D" mask="url(#j60j77lksb)"/>
+            <mask id="zxc5xh2lqd" fill="#fff">
+                <use xlink:href="#f7t695ti1c"/>
+            </mask>
+            <path fill="#F9B54C" mask="url(#zxc5xh2lqd)" d="M1.586 24.47h.932V0h-.932zM6.586 17.567h7.306v-1.172H6.586zM6.586 20.08h7.306V18.91H6.586z"/>
+        </g>
+        <path d="M18.353 9.177a4.588 4.588 0 1 1-9.175 0 4.588 4.588 0 0 1 9.175 0" fill="#FFF"/>
+        <g transform="translate(13 6.118)" fill="#6D7699">
+            <rect width="1.529" height="1.529" rx=".765"/>
+            <rect y="2.294" width="1.529" height="3.824" rx=".765"/>
+        </g>
+    </g>
+</svg>

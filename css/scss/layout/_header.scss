@@ -1,0 +1,46 @@
+@charset 'utf-8';
+
+header {
+    height: 80px;
+
+    .inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: relative;
+    }
+}
+
+.logo {
+    font-size: 2rem;
+}
+
+.gnb {
+    @include absolCenter;
+}
+
+.gnb-list {
+    display: flex;
+    font-size: 2rem;
+    
+    a {
+        padding: 0 1rem;
+
+        &:hover {
+            font-weight: 700;
+        }
+    }
+}
+
+.util-box {
+    display: flex;
+}
+
+.util-cs-list {
+    display: flex;
+    font-size: 1.8rem;
+}
+
+.util-list {
+    display: flex;
+}
